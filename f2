@@ -2,4 +2,8 @@ Line 1 added to f2
 Line 2 added to f2
 line 3 added to f2
 added from git hub
+<<<<<<< HEAD
 new line added from local branch
+=======
+added line from hub after local 
+>>>>>>> 0d305f1b6fd7ed41ae71ea272c6b5a7936657891
